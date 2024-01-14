@@ -1,4 +1,4 @@
-# Github Update
+# Github 작성하기
 
 ## github E-mail 주소 및 ID 등록
 
