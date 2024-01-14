@@ -1,4 +1,4 @@
-# Github 작성하기
+# Github 글 작성하는 법
 
 ## github E-mail 주소 및 ID 등록
 
