@@ -142,7 +142,7 @@ int main(){
 }
 ```
 
-## 수평선 <hr/>
+## 수평선 ```<hr/>```
 아래 줄은 모두 수평선을 만든다. 마크다운 문서를 미리보기로 출력 시, 페이지 나누기 용도로 많이 활용됨.
 
 ```
@@ -173,30 +173,17 @@ int main(){
 ## 링크
 - 참조링크
 ```
-[link keyword][id]
-
-[id]: URL "Optional Title here"
-
-// code
 Link: [Google][googlelink]
-
 [googlelink]: https://google.com "Go google"
-
 ```
-[link keyword][id]
-
-[id]: URL "Optional Title here"
-
-// code
 Link: [Google][googlelink]
-
 [googlelink]: https://google.com "Go google"
 
 - 외부링크
 ```
-사용문법: [Title](link)
-적용예: [Google](https://google.com, "google link")
+[Google](https://google.com, "google link")
 ```
+[Google](https://google.com, "google link")
 
 - 자동연결
 ```
@@ -206,13 +193,11 @@ Link: [Google][googlelink]
 * 이메일링크: <address@example.com>
 ```
 
-일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
-
 * 외부링크: <http://example.com/>
 * 이메일링크: <address@example.com>
 
 
 
 
-[참고글]
-https://gist.github.com/ihoneymon/652be052a0727ad59601
+참고글: [ihoneymon][ihmlink]
+[ihmlink]: https://gist.github.com/ihoneymon/652be052a0727ad59601
