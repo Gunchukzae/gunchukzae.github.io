@@ -49,7 +49,7 @@
 
 ## 목록
 ### 순서있는 목록(번호)
-순서는 무조건 번호의 내림차순
+순서는 무조건 번호의 내림차순으로만 작성 가능함.
 1. 첫번째
 2. 세번째
 3. 두번째
@@ -61,7 +61,7 @@
 ```
 
 ### 순서없는 목록(글머리 기호:*,+,- 지원)
-혼합해서 사용 가능
+혼합해서 사용 가능함.
 
 * 빨강
   * 녹색
@@ -127,7 +127,7 @@ public class BootSpringBootApplication {
 
 <pre>
 <code>
-```
+```C++
 int main(){
     cout << "Hello World!";
 }
@@ -141,6 +141,77 @@ int main(){
     cout << "Hello World!";
 }
 ```
+
+## 수평선 <hr/>
+아래 줄은 모두 수평선을 만든다. 마크다운 문서를 미리보기로 출력 시, 페이지 나누기 용도로 많이 활용됨.
+
+```
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
+```
+
+- 적용예시
+
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
+## 링크
+- 참조링크
+```
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+```
+[link keyword][id]
+
+[id]: URL "Optional Title here"
+
+// code
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+- 외부링크
+```
+사용문법: [Title](link)
+적용예: [Google](https://google.com, "google link")
+```
+
+- 자동연결
+```
+일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
+
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+```
+
+일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
+
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+
+
 
 
 [참고글]
