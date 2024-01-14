@@ -125,13 +125,6 @@ public class BootSpringBootApplication {
 
 깃헙에서는 코드블럭코드(```) 시작점에 사용하는 언어를 선언하여 문법강조(Syntax highlighting)이 가능함.
 
-```C++
-int main(){
-    cout << "Hello World!";
-}
-```
-    
-
 <pre>
 <code>
 ```
@@ -141,6 +134,13 @@ int main(){
 ```
 </code>
 </pre>
+
+아래처럼 C++ 문법이 강조됨
+```C++
+int main(){
+    cout << "Hello World!";
+}
+```
 
 
 [참고글]
