@@ -207,6 +207,7 @@ _single underscores_
 **double asterisks**
 __double underscores__
 ~~cancelline~~
+_Italic
 ```
 
 - *single asterisks*
@@ -214,6 +215,7 @@ __double underscores__
 - **double asterisks**
 - __double underscores__
 - ~~cancelline~~
+_Italic
 
 ```> 문장 중간에 사용할 경우, **띄어쓰기**를 사용하는 것이 좋다.```
 > 문장 중간에 사용할 경우, **띄어쓰기**를 사용하는 것이 좋다.
@@ -225,8 +227,8 @@ __double underscores__
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
 
-![Alt text](C:\Users\배상현\git\gunchukzae.github.iowillian-justen-de-vasconcellos-A4M8Stjj2hA-unsplash.jpg)
-![Alt text](C:\Users\배상현\git\gunchukzae.github.iowillian-justen-de-vasconcellos-A4M8Stjj2hA-unsplash.jpg "Optional title")
+![Alt text](/path/to/img.jpg)
+![Alt text](/git/to/img.jpg "Optional title")
 
 - 사이즈 조절
 
