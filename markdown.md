@@ -207,7 +207,8 @@ _single underscores_
 **double asterisks**
 __double underscores__
 ~~cancelline~~
-_Italic
+_Italic_
+<u>Underline: use `u`</u>
 ```
 
 - *single asterisks*
@@ -215,7 +216,8 @@ _Italic
 - **double asterisks**
 - __double underscores__
 - ~~cancelline~~
-_Italic
+_Italic_
+<u>Underline: use `u`</u>
 
 ```> 문장 중간에 사용할 경우, **띄어쓰기**를 사용하는 것이 좋다.```
 > 문장 중간에 사용할 경우, **띄어쓰기**를 사용하는 것이 좋다.
@@ -227,14 +229,14 @@ _Italic
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
 
-![Alt text](/path/to/img.jpg)
-![Alt text](/git/to/img.jpg "Optional title")
+![Alt text](./img.jpg)
+![Alt text](./img.jpg "Optional title")
 
 - 사이즈 조절
 
 ```
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="./img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="./img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ```
 
 
