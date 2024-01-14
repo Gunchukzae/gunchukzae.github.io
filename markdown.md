@@ -241,8 +241,8 @@ _Italic_
 <img src="./img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="lauraadai"></img>
 
 ## 줄바꿈
+엔터키(\n)만으로는 줄바꿈이 되지 않으므로, 문장 마지막에서 2칸 띄어쓰기 후 엔터키를 눌러야함.
 ```
-엔터키(\n)만으로는 줄바꿈이 되지 않으므로, 문장 마지막에서 2칸 띄어쓰기 후 엔터키를 눌러야함.  
 줄바꿈\n (엔터)
 줄바꿈__\n (띄어쓰기 2칸 후 엔터)
 줄바꿈
@@ -253,6 +253,6 @@ _Italic_
 
 ## 참고 문서
 
-마크다운 markdown 작성법: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
-마크다운 markdown 사용법 총정리 - 기본편: [gparkkii](https://gparkkii.github.io/tech/markdown/)  
-Unsplash: [laura adai](https://unsplash.com/ko/@lauraadaiphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[ihoneymon : [공통] 마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
+[gparkkii  : 마크다운 markdown 사용법 총정리 - 기본편](https://gparkkii.github.io/tech/markdown/)  
+[Unsplash  : laura adai](https://unsplash.com/ko/@lauraadaiphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
