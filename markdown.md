@@ -218,7 +218,7 @@ Link: [Google][googlelink]
 
 ```
 
-- 적용예시
+- 적용예시  
 Link: [Google][googlelink]
 
 [googlelink]: https://google.com "Go google"
@@ -243,8 +243,8 @@ Link: [Google][googlelink]
 
 - 적용예시
 
-* 외부링크: <http://example.com/>
-* 이메일링크: <address@example.com>
+외부링크: <http://example.com/>
+이메일링크: <address@example.com>
 
 
 ### 4.5. 강조
@@ -256,7 +256,6 @@ _single underscores_
 __double underscores__
 ~~cancelline~~
 _Italic_
-<u>Underline: use `u`</u>
 ```
 
 - 적용예시  
@@ -267,7 +266,6 @@ _Italic_
 - __double underscores__
 - ~~cancelline~~
 - _Italic_
-- <u>Underline: use `u`</u>
 
 ```> 문장 중간에 사용할 경우, **띄어쓰기**를 사용하는 것이 좋다.```
 > 문장 중간에 사용할 경우, **띄어쓰기**를 사용하는 것이 좋다.
