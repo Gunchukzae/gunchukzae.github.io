@@ -243,14 +243,12 @@ _Italic_
 ## 줄바꿈
 ```
 * 문장 마지막에서 2칸 띄어쓰기 후 엔터
-* 문장 마지막에서 3칸 이상 띄어쓰기
 ```
 
-줄바꿈    줄바꿈  
 줄바꿈  
 줄바꿈
 
 
-참고글: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+참고글: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
 참고글: [gparkkii](https://gparkkii.github.io/tech/markdown/)
 사진: [laura adai](https://unsplash.com/ko/@lauraadaiphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
