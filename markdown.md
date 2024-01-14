@@ -174,9 +174,12 @@ int main(){
 - 참조링크
 ```
 Link: [Google][googlelink]
+
 [googlelink]: https://google.com "Go google"
+
 ```
 Link: [Google][googlelink]
+
 [googlelink]: https://google.com "Go google"
 
 - 외부링크
@@ -186,9 +189,8 @@ Link: [Google][googlelink]
 [Google](https://google.com, "google link")
 
 - 자동연결
-```
 일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
-
+```
 * 외부링크: <http://example.com/>
 * 이메일링크: <address@example.com>
 ```
@@ -199,5 +201,4 @@ Link: [Google][googlelink]
 
 
 
-참고글: [ihoneymon][ihmlink]
-[ihmlink]: https://gist.github.com/ihoneymon/652be052a0727ad59601
+참고글: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)
