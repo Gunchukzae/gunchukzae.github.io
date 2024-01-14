@@ -240,5 +240,17 @@ _Italic_
 <img src="./img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="lauraadai"></img><br/>
 <img src="./img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="lauraadai"></img>
 
+## 줄바꿈
+```
+* 문장 마지막에서 2칸 띄어쓰기 후 엔터
+* 문장 마지막에서 3칸 이상 띄어쓰기
+```
+
+줄바꿈   줄바꿈  
+줄바꿈  
+줄바꿈
+
+
 참고글: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+참고글: [gparkkii](https://gparkkii.github.io/tech/markdown/)
 사진: [laura adai](https://unsplash.com/ko/@lauraadaiphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
