@@ -1,16 +1,25 @@
-# [Github 글쓰기]
+# Github Update
 
-1. Repository 생성하기
+1. github E-mail 주소 및 ID 등록
 ------------------------
+
+    ```ruby
+    Author identity unknown
+    *** Please tell me who you are.
+    Run
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+    ```
+
+
+2. github 수정사항 업데이트
+------------------------
+   
    ```ruby
-   C:\Users\사용자명\mkdir git
-   C:\Users\사용자명\cd git
-   C:\Users\사용자명\git\git clone https://github.com/Gunchukzae/gunchukzae.github.io.git
+   cd git
+   cd gunchukzae.github.io
+   git add -A
+   git commit -m "Update"
+   git push
    ```
-
-2. 로컬 Git에 새로운 파일 생성
-------------------------
-
-3. Github에 수정사항 반영하기
-------------------------
 
