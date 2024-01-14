@@ -230,7 +230,6 @@ _Italic_
 ```
 
 ![Alt text](./img.jpg)
-![Alt text](./img.jpg "Optional title")
 
 - 사이즈 조절
 
@@ -238,7 +237,8 @@ _Italic_
 <img src="./img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 <img src="./img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
 ```
-<img src="./img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-<img src="./img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+<img src="./img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="lauraadai"></img><br/>
+<img src="./img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="lauraadai"></img>
 
 참고글: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+사진: [laura adai](https://unsplash.com/ko/@lauraadaiphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
