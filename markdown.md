@@ -225,8 +225,8 @@ __double underscores__
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
 
-![Alt text](C:\Users\배상현\git\willian-justen-de-vasconcellos-A4M8Stjj2hA-unsplash.jpg)
-![Alt text](C:\Users\배상현\git\willian-justen-de-vasconcellos-A4M8Stjj2hA-unsplash.jpg "Optional title")
+![Alt text](C:\Users\배상현\git\gunchukzae.github.iowillian-justen-de-vasconcellos-A4M8Stjj2hA-unsplash.jpg)
+![Alt text](C:\Users\배상현\git\gunchukzae.github.iowillian-justen-de-vasconcellos-A4M8Stjj2hA-unsplash.jpg "Optional title")
 
 - 사이즈 조절
 
