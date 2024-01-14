@@ -209,13 +209,31 @@ __double underscores__
 ~~cancelline~~
 ```
 
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+- *single asterisks*
+- _single underscores_
+- **double asterisks**
+- __double underscores__
+- ~~cancelline~~
 
 ```> 문장 중간에 사용할 경우, **띄어쓰기**를 사용하는 것이 좋다.```
 > 문장 중간에 사용할 경우, **띄어쓰기**를 사용하는 것이 좋다.
+
+## 이미지
+
+```
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+```
+
+![Alt text](C:\Users\배상현\git\willian-justen-de-vasconcellos-A4M8Stjj2hA-unsplash.jpg)
+![Alt text](C:\Users\배상현\git\willian-justen-de-vasconcellos-A4M8Stjj2hA-unsplash.jpg "Optional title")
+
+- 사이즈 조절
+
+```
+<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
+<img src="/path/to/img.jpg" width="40%" height="30%" title="px(픽셀) 크기 설정" alt="RubberDuck"></img>
+```
+
 
 참고글: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)
