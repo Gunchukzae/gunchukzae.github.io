@@ -3,12 +3,13 @@
 1. github E-mail 주소 및 ID 등록
 ==============================
 
-    Author identity unknown
-    *** Please tell me who you are.
-    Run
-    git config --global user.email "you@example.com"
-    git config --global user.name "Your Name"
-
+```
+Author identity unknown
+*** Please tell me who you are.
+Run
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+```
 
 2. github 수정사항 업데이트
 ==============================
