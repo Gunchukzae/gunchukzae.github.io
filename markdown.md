@@ -249,10 +249,8 @@ _Italic_
 줄바꿈  
 줄바꿈
 
-### 참고 문서
+## 참고 문서
 
-[ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
-[gparkkii](https://gparkkii.github.io/tech/markdown/)  
-
-### 참고 이미지
-[laura adai](https://unsplash.com/ko/@lauraadaiphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+마크다운 markdown 작성법: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
+마크다운 markdown 사용법 총정리 - 기본편: [gparkkii](https://gparkkii.github.io/tech/markdown/)  
+Unsplash: [laura adai](https://unsplash.com/ko/@lauraadaiphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
