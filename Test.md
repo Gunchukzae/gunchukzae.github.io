@@ -14,11 +14,11 @@ git config --global user.name "Your Name"
 2. github 수정사항 업데이트
 ==============================
    
-   ```ruby
-   cd git
-   cd gunchukzae.github.io
-   git add -A
-   git commit -m "Update"
-   git push
-   ```
+```ruby
+cd git
+cd gunchukzae.github.io
+git add -A
+git commit -m "Update"
+git push
+```
 
