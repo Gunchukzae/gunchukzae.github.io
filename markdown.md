@@ -242,13 +242,17 @@ _Italic_
 
 ## 줄바꿈
 ```
+엔터(\n)만으로는 줄바꿈이 되지 않음.
 * 문장 마지막에서 2칸 띄어쓰기 후 엔터
 ```
-
+줄바꿈
 줄바꿈  
 줄바꿈
 
+### 참고 문서
 
-참고글: [ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
-참고글: [gparkkii](https://gparkkii.github.io/tech/markdown/)
-사진: [laura adai](https://unsplash.com/ko/@lauraadaiphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
+[ihoneymon](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
+[gparkkii](https://gparkkii.github.io/tech/markdown/)  
+
+### 참고 이미지
+[laura adai](https://unsplash.com/ko/@lauraadaiphoto?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
