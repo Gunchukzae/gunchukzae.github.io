@@ -89,14 +89,14 @@
             - 파랑
     ```
 
-### 코드
+## 코드
 
-#### 들여쓰기
+### 들여쓰기
 4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여 들여쓰지 않은 행을 만날때까지 변환이 계속된다.
 
-#### 코드블럭
-아래 2가지 방식으로 사용 가능
-- <pre><code>{code}</code></pre> 이용방식
+### 코드블럭
+아래 2가지 방식으로 사용 가능함.
+- ```<pre><code>{code}</code></pre>``` 이용방식
 ```
 <pre>
 <code>
@@ -110,8 +110,9 @@ public class BootSpringBootApplication {
 </pre>
 ```
 
-- 코드블럭코드(```) 이용방식
-```
+- 코드블럭코드( ``` ) 이용방식
+<pre>
+<code>
 ```
 public class BootSpringBootApplication {
   public static void main(String[] args) {
@@ -119,7 +120,8 @@ public class BootSpringBootApplication {
   }
 }
 ```
-```
+</code>
+</pre>
 
 깃헙에서는 코드블럭코드(```) 시작점에 사용하는 언어를 선언하여 문법강조(Syntax highlighting)이 가능함.
 
@@ -130,5 +132,16 @@ int main(){
 ```
     
 
-[참고글][link]
-[link]: https://gist.github.com/ihoneymon/652be052a0727ad59601
+<pre>
+<code>
+```
+int main(){
+    cout << "Hello World!";
+}
+```
+</code>
+</pre>
+
+
+[참고글]
+https://gist.github.com/ihoneymon/652be052a0727ad59601
