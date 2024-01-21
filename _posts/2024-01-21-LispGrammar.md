@@ -4,7 +4,7 @@ excerpt: "Lisp 문법을 정리해보자"
 
 categories: Lisp
 tags:
-  - [Lisp, Programming, Grammer]
+  - [Lisp, Programming, Grammar]
 
 toc: true
 toc_sticky: true

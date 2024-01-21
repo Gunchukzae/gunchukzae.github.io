@@ -4,7 +4,7 @@ excerpt: "C++ 문법을 정리해보자"
 
 categories: Cpp
 tags:
-  - [Cpp, Programming, Grammer]
+  - [Cpp, Programming, Grammar]
 
 toc: true
 toc_sticky: true
