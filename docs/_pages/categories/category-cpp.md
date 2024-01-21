@@ -1,11 +1,11 @@
 ---
 title: "C++ 프로그래밍"
 layout: archive
-permalink: cpp/cppgrammer
+permalink: categories/cpp
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.cpp.Cppgrammer %}
+{% assign posts = site.categories.Cpp %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
