@@ -1,0 +1,12 @@
+{% if post.header.teaser %} {% capture teaser %}{{ post.header.teaser }}{% endcapture %} {% else %} {% assign teaser = site.teaser %} {% endif %} {% if post.id %} {% assign title = post.title | markdownify | remove: "
+" | remove: "
+
+" %} {% else %} {% assign title = post.title %} {% endif %}
+{% if include.type == "grid" and teaser %}
+
+{% endif %}
+{% if post.link %} {{ title }} Permalink {% else %} {{ title }} {% endif %}
+{% include page__meta.html type=include.type %} {% if post.excerpt %}
+{{ post.excerpt | markdownify | strip_html | truncate: 160 }}
+
+{% endif %}
