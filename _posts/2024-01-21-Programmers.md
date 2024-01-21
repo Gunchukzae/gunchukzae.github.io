@@ -1,0 +1,21 @@
+---
+title:  "[By C++] n의 배수"
+excerpt: "n의 배수"
+
+categories:
+  - Programmers
+tags:
+  - [CodingTest, Programmers]
+
+toc: true
+toc_sticky: true
+ 
+date: 2024-01-21
+last_modified_at: 2024-01-21
+---
+
+
+# n의 배수
+
+1.문제
+=============
