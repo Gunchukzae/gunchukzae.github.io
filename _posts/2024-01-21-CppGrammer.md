@@ -2,8 +2,7 @@
 title:  "[C++ 프로그래밍] C++ 문법 정리"
 excerpt: "C++ 문법을 정리해보자"
 
-categories:
-  - Cpp
+categories: Cpp
 tags:
   - [Cpp, Programming, Grammer]
 

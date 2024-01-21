@@ -2,8 +2,7 @@
 title:  "[By C++] Hello World"
 excerpt: "C++로 Hello World 출력하기"
 
-categories:
-  - Baekjoon
+categories: Baekjoon
 tags:
   - [CodingTest, Baekjoon]
 
