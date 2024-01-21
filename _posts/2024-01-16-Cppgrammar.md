@@ -3,7 +3,7 @@ title:  "[C++ 프로그래밍] C++ 문법정리"
 excerpt: "C++ 문법을 정리해보자 "
 
 categories:
-  - Cpp
+  - [Cpp]
 tags:
   - [Cpp, Programming, Grammar]
 
