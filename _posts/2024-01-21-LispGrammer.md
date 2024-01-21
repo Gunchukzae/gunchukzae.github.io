@@ -3,7 +3,7 @@ title:  "[Lisp 프로그래밍] Lisp 문법 정리"
 excerpt: "Lisp 문법을 정리해보자"
 
 categories:
-  - LispGrammer
+  - Lispgrammer
 tags:
   - [Lisp, Programming, Grammer]
 
